@@ -1,2 +1,5 @@
 # HTML_CSS
-This repo contains only html with custom responsivce css
+This repo contains only HTML with Custom  Responsivce CSS
+
+# PURPOSE
+The Purpose of the repository is that i want to show acse my skill on the HTML and CSS
